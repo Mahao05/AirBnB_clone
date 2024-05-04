@@ -2,14 +2,6 @@ AirBnB Clone with MySQL
 
 This project is an AirBnB clone implemented using MySQL as the database management system. It provides a simplified version of AirBnB's functionality, allowing users to create listings, make bookings, and leave reviews.
 
-## Table of Contents
-
-- [Prerequisites](#prerequisites)
-- [Setting Up the Database](#setting-up-the-database)
-- [CRUD Operations](#crud-operations)
-- [Running Queries](#running-queries)
-- [Conclusion](#conclusion)
-
 ## Prerequisites
 
 - MySQL installed on your system.
